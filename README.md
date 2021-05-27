@@ -59,8 +59,5 @@ Below are the bullet points of the analysis:
 
     > Regarding to the behavior on career life, most of career shifters **open Stack Overflow when they got stuck**. Most of them also **learn new language every year**
 
-The more comprehensive explanation can be found [here]() 
-in my Medium blog.
-
 ## Acknowledgement
 The data source is from the [Stack Overflow Survey page](https://insights.stackoverflow.com/survey). 
