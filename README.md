@@ -51,7 +51,7 @@ Below are the bullet points of the analysis:
 
     > Developers who often work overtime have **5.14 hours more working hours than normal working hours in a week averagely**.
 
-    > Developers who work overtime in **lesser frequency are highly satisfied with their job**.
+    > Developers who work overtime in **adequate frequency are highly satisfied with their job**.
 
 3. Career Shifters
 
