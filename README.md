@@ -27,7 +27,7 @@ This project is purposed to discuss topics related to tech industry using Stack 
     
     > Question 2: What is the average working hours of the overtime workers?
     
-    > Question 3: How overtime work related to job satisfaction?
+    > Question 3: How working overtime related to job satisfaction?
 
 3. Career Shifters
 
@@ -49,7 +49,7 @@ Below are the bullet points of the analysis:
 
     > There is a tendency for work overtime to developers **who do management work dominantly**.
 
-    > Developers who often work overtime have **5.14 hours more working hours averagely**.
+    > Developers who often work overtime have **5.14 hours more working hours than normal working hours in a week averagely**.
 
     > Developers who work overtime in **lesser frequency are highly satisfied with their job**.
 
